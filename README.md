@@ -14,9 +14,14 @@ Since this is the readme file, let me give you some directions.
 * Edit this readme file from your chromebook.  I have some questions at the end for you.
 ---------------------------------------------
 1) When you saved the python file, did it automatically get saved to your repo on github?
+No, I had to reupload it to my repo from the pi.
 2) Why do you think it is beneficial for git to track the changes that you have made to the program over time?
+So if a version of the code starts to malfunction or if someone saved a bugged code, the history allows the coder(s) to fix the code without having to hunt for one bad line.
 3) When you make a comment to a commit ( git commit -m "Some important message") is that comment for you to read, me to read, or some one else who wants to use your code to read?  Explain.
+It could be for all of the above, the comments could explain to someone who wants to use the program can do or possible bugs, for you to see an explanation of the work, or for me as a note on what still needs done.
 4) Can you run Python Code on the github website?
+No.
 5) Have you ever downloaded code or games from github?  If yes, please describe also long as it is classroom appropriate.
+No I have not.
 
 FYI I will be showing/reading some student answers in class to demonstrate to everyone what I can see on github.
